@@ -6,7 +6,6 @@
 
 Smart AI Resume Analyzer is an all-in-one tool to analyze, optimize, and craft resumes that stand out, helping you land your dream job.
 
-Built by **Shubham Choubey**
 
 </div>
 
